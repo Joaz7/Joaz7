@@ -1,4 +1,6 @@
 # Bem-Vindo ao meu Perfil!
+![alt text](https://cdn.discordapp.com/attachments/824875951099478027/839855846121144330/joazz.png)
+
 
 - 🔹 Professional Graphic Designer / Learning Video Editing
 
