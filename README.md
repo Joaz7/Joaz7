@@ -14,7 +14,7 @@
 - Criação de logos animadas em After Effects
 
 #Saiba onde me encontrar:
-- [![N|Solid]() Deviantart](https://www.deviantart.com/joaz7)
+- https://www.deviantart.com/joaz7
 
 ou:
 
