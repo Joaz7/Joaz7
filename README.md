@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bem-Vindo ao meu Perfil!
 
-<!--
-**Joaz7/Joaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔹 Professional Graphic Designer / Learning Video Editing
 
-Here are some ideas to get you started:
+---
+#### Especialidades:
+> Sou focado em Design Gráfico, mais focado na parte de Banners, Banners publicitários, Logos, Logotipos e Artes Digitais. Atualmente focado em aprender Front-End, principalmente em CSS, amante em fazer Temas para Discord e afins. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Atualmente estudando:
+- Edição de Video em After Effects
+- Perspectiva
+- Sombreamento realista 
+- Artes para Sites ( .ICO, Background, etc)
+- Criação de logos animadas em After Effects
+
+#Saiba onde me encontrar:
+- [![N|Solid]() Deviantart](https://www.deviantart.com/joaz7)
+
+ou:
+
+#### E-mail: httpsjoas@gmail.com
+
+
+
